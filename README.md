@@ -2,10 +2,6 @@
 
 Fullstack приложение (клон Trello) на **React (Vite)** + **Laravel**.
 
-## ✨ Демонстрация
-
-[Демо-версия](https://your-live-demo-link.com) _(если есть)_
-
 ## 🔧 Технологии
 
 - **Frontend:** React, Vite, React Query, React Router, TailwindCSS
@@ -18,8 +14,8 @@ Fullstack приложение (клон Trello) на **React (Vite)** + **Larav
 ### 1. Клонирование репозитория
 
 ```sh
-git clone https://github.com/your-username/your-trello-clone.git
-cd your-trello-clone
+git clone https://github.com/your-username/your-trello-clone.git](https://github.com/Secando/Trellol.git
+cd Trellol
 ```
 
 ### 2. Запуск Frontend (React + Vite)
@@ -51,6 +47,7 @@ php artisan serve
 
 ```sh
 cd backend
+cd docker
 docker-compose up -d --build
 ```
 
