@@ -63,8 +63,7 @@ npm run build
 ## ✨ Скриншоты
 ![Главная страница](https://your-image-link.com)
 
-## 👥 Автор
-[Ваше Имя](https://your-portfolio-link.com)
+
 
 
 
