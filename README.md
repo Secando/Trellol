@@ -8,7 +8,7 @@ Fullstack приложение (клон Trello) на **React (Vite)** + **Larav
 
 ## 🔧 Технологии
 
-- **Frontend:** React, Vite, Redux Toolkit, TailwindCSS
+- **Frontend:** React, Vite, React Query, React Router, TailwindCSS
 - **Backend:** Laravel, Sanctum (для аутентификации)
 - **База данных:** SQLite
 - **Контейнеризация:** Docker, Docker Compose
