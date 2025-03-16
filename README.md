@@ -1,5 +1,4 @@
 # Trellol
-# Trello Clone \U0001F4DD
 
 Fullstack приложение (клон Trello) на **React (Vite)** + **Laravel**.
 
